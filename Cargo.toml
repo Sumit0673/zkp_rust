@@ -1,0 +1,10 @@
+[package]
+name = "zkp_rust"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+ark-ff = "0.4"
+ark-ec = "0.4"
+ark-bn254 = "0.4"
+rand = "0.8"
